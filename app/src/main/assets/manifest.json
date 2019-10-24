@@ -1,0 +1,5 @@
+{
+  "modelFile": "Tomato.tflite",
+  "labelsFile": "labels.txt",
+  "modelType": "IMAGE_LABELING"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745997948403",
+    "firebase_url": "https://tomato-disease-detection-95376.firebaseio.com",
+    "project_id": "tomato-disease-detection-95376",
+    "storage_bucket": "tomato-disease-detection-95376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745997948403:android:7c9f8447665386f2fcee86",
+        "android_client_info": {
+          "package_name": "com.rohitrj.tomatodiseasedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745997948403-v3aillsl4c01itutdfdm6uas740abffq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQc8__czyKqJasOLaTKYxrTQQtGItaa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745997948403-v3aillsl4c01itutdfdm6uas740abffq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
